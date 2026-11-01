@@ -1,4 +1,4 @@
-import { Badge } from '@rtkelly13/design-system';
+import { Badge } from '@rtkelly-labs/design-system';
 import Link from 'next/link';
 import type { TypeDoc, VersionManifest } from '@/lib/ingest/parseApiModel';
 import { InheritanceBreadcrumbs } from './InheritanceBreadcrumbs';

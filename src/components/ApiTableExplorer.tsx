@@ -1,6 +1,6 @@
 'use client';
 
-import { Badge, DataTable } from '@rtkelly13/design-system';
+import { Badge, DataTable } from '@rtkelly-labs/design-system';
 import type { ColumnDef } from '@tanstack/react-table';
 import { useMemo, useState } from 'react';
 import type { ApiSymbol } from '@/lib/ingest/parseApiTxt';

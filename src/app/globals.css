@@ -6,9 +6,9 @@
 @import "@fontsource/vt323";
 
 @import "tailwindcss";
-@import "@rtkelly13/design-system/theme.css";
-@import "@rtkelly13/design-system/prose.css";
-@import "@rtkelly13/design-system/styles.css";
+@import "@rtkelly-labs/design-system/theme.css";
+@import "@rtkelly-labs/design-system/prose.css";
+@import "@rtkelly-labs/design-system/styles.css";
 
 :root {
   --font-inter: "Inter Variable", Inter, sans-serif;

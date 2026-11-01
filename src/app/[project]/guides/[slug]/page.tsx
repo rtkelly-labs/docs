@@ -5,7 +5,7 @@ import type {
   DocPagerTarget,
   DocsNavNode,
   TocEntry,
-} from '@rtkelly13/design-system';
+} from '@rtkelly-labs/design-system';
 import { notFound } from 'next/navigation';
 import { DocsViewShell } from '@/components/DocsViewShell';
 import { MarkdownContent } from '@/components/MarkdownContent';

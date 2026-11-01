@@ -8,7 +8,10 @@ const __dirname = path.dirname(__filename);
 const nextConfig = {
   output: 'export',
   trailingSlash: true,
-  transpilePackages: ['@rtkelly13/design-system', '@rtkelly/mermaid-toolkit'],
+  transpilePackages: [
+    '@rtkelly-labs/design-system',
+    '@rtkelly/mermaid-toolkit',
+  ],
   images: {
     unoptimized: true,
   },

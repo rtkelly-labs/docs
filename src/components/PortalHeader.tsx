@@ -1,6 +1,6 @@
 'use client';
 
-import { DocsHeader } from '@rtkelly13/design-system';
+import { DocsHeader } from '@rtkelly-labs/design-system';
 import { Layers } from 'lucide-react';
 import { usePathname, useRouter } from 'next/navigation';
 import { ECOSYSTEMS, PROJECTS, type ProjectConfig } from '@/config/projects';

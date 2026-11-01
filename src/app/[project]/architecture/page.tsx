@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { Badge } from '@rtkelly13/design-system';
+import { Badge } from '@rtkelly-labs/design-system';
 import { notFound } from 'next/navigation';
 import { MermaidViewer } from '@/components/MermaidViewer';
 import { PortalHeader } from '@/components/PortalHeader';

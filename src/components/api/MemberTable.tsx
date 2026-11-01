@@ -1,4 +1,4 @@
-import { Badge } from '@rtkelly13/design-system';
+import { Badge } from '@rtkelly-labs/design-system';
 import type { MemberDoc } from '@/lib/ingest/parseApiModel';
 
 interface MemberTableProps {

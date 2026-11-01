@@ -10,7 +10,7 @@ import {
   DocsSidebar,
   TableOfContents,
   type TocEntry,
-} from '@rtkelly13/design-system';
+} from '@rtkelly-labs/design-system';
 import { type ReactNode, useState } from 'react';
 import { PortalHeader } from '@/components/PortalHeader';
 import type { ProjectConfig } from '@/config/projects';

@@ -1,6 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
-import { Badge } from '@rtkelly13/design-system';
+import { Badge } from '@rtkelly-labs/design-system';
 import { ArrowRight, Cpu, ExternalLink, Globe, Table } from 'lucide-react';
 import Link from 'next/link';
 import { PortalHeader } from '@/components/PortalHeader';

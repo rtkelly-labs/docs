@@ -2,7 +2,7 @@
 
 > Dedicated multi-project documentation hub, architectural call graphs, and interactive generated API reference catalogs for **Apache Parquet** across the **.NET** and **JavaScript / TypeScript** ecosystems.
 
-Powered by **Next.js (App Router)**, **`@rtkelly13/design-system`**, and automated data extraction pipelines.
+Powered by **Next.js (App Router)**, **`@rtkelly-labs/design-system`**, and automated data extraction pipelines.
 
 ---
 
@@ -37,7 +37,7 @@ Each upstream repository acts as a **pure data producer**, maintaining its docum
 │          Parquet Docs Portal (docs.ryankelly.dev)         │
 │                                                           │
 │  - Next.js (App Router, Static Export to GitHub Pages)    │
-│  - @rtkelly13/design-system (Brutalist theme ladder)      │
+│  - @rtkelly-labs/design-system (Brutalist theme ladder)      │
 │  - Ecosystem Partitions:                                  │
 │      * [ 01 // .NET Ecosystem ] (C# 13, F# 6+, AOT)       │
 │      * [ 02 // JavaScript Ecosystem ] (DuckDB-Wasm, Arrow)│

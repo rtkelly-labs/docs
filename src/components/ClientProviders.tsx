@@ -1,6 +1,6 @@
 'use client';
 
-import { DocsLinkProvider, ThemeProvider } from '@rtkelly13/design-system';
+import { DocsLinkProvider, ThemeProvider } from '@rtkelly-labs/design-system';
 import type { ReactNode } from 'react';
 import { NextDocsLink } from './NextDocsLink';
 

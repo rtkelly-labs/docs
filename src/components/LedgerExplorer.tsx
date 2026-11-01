@@ -1,6 +1,6 @@
 'use client';
 
-import { Badge } from '@rtkelly13/design-system';
+import { Badge } from '@rtkelly-labs/design-system';
 import { Calendar, ExternalLink } from 'lucide-react';
 import { useMemo, useState } from 'react';
 import type { LedgerEntry } from '@/lib/ingest/parseLedger';
