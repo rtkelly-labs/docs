@@ -8,12 +8,12 @@
     "pnpm": ">=9.0.0"
   },
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev --turbopack -p 8120",
     "build": "pnpm ingest:local && next build",
     "ingest": "tsx scripts/ingest.ts",
     "ingest:local": "tsx scripts/ingest.ts --local",
     "ingest:main": "tsx scripts/ingest.ts --local --from-main",
-    "start": "next start",
+    "start": "next start -p 8121",
     "lint": "biome check .",
     "format": "biome format --write .",
     "typecheck": "tsc --noEmit",
